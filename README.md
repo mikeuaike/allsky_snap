@@ -1,5 +1,5 @@
 # allsky_snap
-Automatically downloads AllSky images from LNA's AllSky Camera!
+Automatically downloads image from LNA's public AllSky Camera!
 
 # What is the LNA?
 LNA stands for "Laboratório Nacional de Astrofísica", or "Astrophysics National Laboratory, a research institute focused on Astronomy.
