@@ -1,7 +1,7 @@
 # allsky_snap
 Automatically downloads AllSky images from LNA's AllSky Camera!
 
-# What is the LNA?https://twitter.com/usngo/status/1526336287749263362
+# What is the LNA?
 LNA stands for "Laboratório Nacional de Astrofísica", or "Astrophysics National Laboratory, a research institute focused on Astronomy.
 By having access to 3 observatories, it provides the observational infrastructure for national astronomy.
 
@@ -22,4 +22,4 @@ To run this code, you'll need the following python libraries:
 
 ## Colored Camera
 ###### Despite having a lower exposition time than the monochromatic one, the colored one gives colored image and it's updated 24/7!
-https://twitter.com/usngo/status/1526336287749263362
+
