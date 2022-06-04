@@ -11,10 +11,10 @@ The institute publically provides image from an allsky camera, used for forecast
 
 # Libraries
 To run this code, you'll need the following python libraries:
-> wget
-> datetime
-> pytz
-> time
+- wget
+- datetime
+- pytz
+- time
 
 # Specs
 ## Monochromatic Camera
