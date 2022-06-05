@@ -21,5 +21,5 @@ To run this code, you'll need the following python libraries:
 ###### It uploads image with a higher exposition time, when compared to the colored one. The image updates only happen between 6PM and 6 AM (UTC-3), and they're updated by the minute
 
 ## Colored Camera
-###### Despite having a lower exposition time than the monochromatic one, the colored one gives colored image and it's updated 24/7!
+###### Despite having a lower exposition time than the monochromatic one, the colored one displays colored image ( ¯\_(ツ)_/¯ ) and it's updated 24/7!
 
