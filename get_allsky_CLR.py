@@ -19,7 +19,7 @@ while (1):
 
         t = datetime.now(tz_BR)
 
-        aux = ("AllSky", t.strftime("%H:%M:%S"), t.strftime("%d-%B-%Y"))
+        aux = ("AllSky", t.strftime("%d-%B-%Y_%H:%M:%S.jpg"))
         name = str("_".join(aux))
 
         wget.download(url, name)
