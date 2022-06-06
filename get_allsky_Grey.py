@@ -15,11 +15,13 @@ while (1):
 
     t = datetime.now(tz_BR)
     hour = int(t.strftime("%H"))
+    i = 0
     while ((hour >= 18) or (hour <= 6)):
 
         t = datetime.now(tz_BR)
         hour = int(t.strftime("%H"))
-        aux = ("AllSky", t.strftime("%d-%B-%Y_%H:%M:%S.jpg"))
+        i_name = str(i).zfill(5)
+        aux = ("AllSky", i_name, '.jpg')
         name = str("_".join(aux))
         print(hour)
         wget.download(url, name)
