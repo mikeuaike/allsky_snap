@@ -26,6 +26,7 @@ while (1):
         print(hour)
         wget.download(url, name)
         print("File: ", name, "Saved! ")
+        i = i + 1
         time.sleep(60)
     print("It doesn't update during daylight!! \nSleepin for some time...")
     time.sleep(1800)
